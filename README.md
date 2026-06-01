@@ -17,7 +17,7 @@ This repository includes both the **Group Report** and the **Individual Report**
 The group report is located at:
 
 ```text
-report/group_report/GROUP_REPORT_ReAct_Ecommerce_Assistant_Team.md
+report/group_report/GROUP_REPORT.md
 ```
 
 This report includes:
@@ -36,7 +36,7 @@ This report includes:
 The individual report is located at:
 
 ```text
-report/individual_reports/REPORT_NguyenVanChung.md
+report/individual_reports/INDIVIDUAL_REPORT.md
 ```
 
 This report includes:
