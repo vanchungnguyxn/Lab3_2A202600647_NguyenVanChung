@@ -36,7 +36,7 @@ This report includes:
 The individual report is located at:
 
 ```text
-report/individual_reports/REPORT_NguyenVanChung.md
+report/individual_reports/INDIVIDUAL_REPORT.md
 ```
 
 This report includes:
